@@ -1,5 +1,10 @@
 # mocha-teamcity-reporter-v2 #
 
+THIS PACKAGE FORK IS NO LONGER MAINTAINED
+
+This project has now been merged back into the master located at https://github.com/travisjeffery/mocha-teamcity-reporter
+and is being left up so it does not break people relying on this.
+
 [![Build Status](https://travis-ci.org/jamie-sherriff/mocha-teamcity-reporter.svg?branch=master)](https://travis-ci.org/jamie-sherriff/mocha-teamcity-reporter)
 [![Build status](https://ci.appveyor.com/api/projects/status/t6uenr1n9umcwew7?svg=true)](https://ci.appveyor.com/project/jamie-sherriff/mocha-teamcity-reporter)
 
